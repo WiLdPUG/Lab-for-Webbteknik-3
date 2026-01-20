@@ -5,6 +5,7 @@ import * as MathUtils from './math.js';
 let name = "Kevin"
 console.log(name);
 
+// Detta är lab 1A
 
 console.log(subtract(4, 1));
 console.log(multiply (5,10));
