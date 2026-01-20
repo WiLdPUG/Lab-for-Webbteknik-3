@@ -2,6 +2,8 @@ import divide, { add as addition , subtract , multiply ,SECRET_SAUCE } from './m
 import { PI as piValue } from './constants.js';
 import * as MathUtils from './math.js';
 
+let name = "Kevin"
+console.log(name);
 
 
 console.log(subtract(4, 1));
